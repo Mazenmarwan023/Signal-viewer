@@ -36,7 +36,7 @@ A demo video showcasing the application's features and usage will be added soon.
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/signal-viewer.git
+   git clone https://github.com/Mazenmarwan023/signal-viewer.git
    ```
 2. Navigate to the project directory:
    ```bash
