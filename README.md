@@ -54,6 +54,7 @@ A demo video showcasing the application's features and usage will be added soon.
 
 - [Saif mohamed](https://github.com/seiftaha)
 - [Mahmoud mohamed](https://github.com/mahmoudmo22)
+- [Eman emad](https://github.com/alyaaa20)
 - [Mazen marwan](https://github.com/Mazenmarwan023)
 
 We appreciate everyone's contributions to this project!
