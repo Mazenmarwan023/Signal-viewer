@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/0745c025-66e9-4b6f-8976-11581571f60b
 ## Technologies Used
 - Python
 - PyQt
-- Matplotlib (for plotting)
+- Pyqtgraoh (for plotting)
 - PDF generation libraries (e.g., ReportLab or FPDF)
 
 ## Setup Instructions
