@@ -21,9 +21,11 @@ The Signal Viewer is a desktop application developed using Python and Qt. It pro
 - Export reports in PDF format with signal snapshots and data statistics.
 
 ## Demo Video
-A demo video showcasing the application's features and usage will be added soon.
 
-[![Watch the demo](media/demo-video-thumbnail.png)](media/demo-video.mp4)
+
+
+https://github.com/user-attachments/assets/0745c025-66e9-4b6f-8976-11581571f60b
+
 
 
 
